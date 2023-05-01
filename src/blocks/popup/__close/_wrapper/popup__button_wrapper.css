@@ -1,0 +1,8 @@
+    .popup__button_wrapper {
+        display:flex;
+        align-items:flex-start;
+        justify-content:flex-end;
+        min-width: 500px;
+        min-height: 418px;
+        z-index: 2;
+    }

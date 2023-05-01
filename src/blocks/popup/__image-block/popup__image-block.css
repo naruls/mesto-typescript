@@ -1,0 +1,7 @@
+.popup__image-block{
+    z-index: 3;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    margin: 50px auto 68px;
+}

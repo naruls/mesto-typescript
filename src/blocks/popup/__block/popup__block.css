@@ -1,0 +1,20 @@
+.popup__block {
+    z-index: 3;
+    position: fixed;
+    width: 510px;
+    height: 410px;
+    top: 50%;
+    left: 50%;
+    margin-top: -205px; /* Negative half of height. */
+    margin-left: -255px;
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 535px) {
+    .popup__block { 
+        width: 282px;
+        height: 394px;
+        margin-top: -197px;
+        margin-left: -141px;
+    }
+}

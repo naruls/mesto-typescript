@@ -1,0 +1,14 @@
+.header__button {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    height: 22px;
+    margin-top: 6px;
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+    text-decoration: none;
+}

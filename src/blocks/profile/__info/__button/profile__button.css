@@ -1,0 +1,6 @@
+    .profile__button {
+        display: flex;
+        border: 1px solid #FFFFFF;
+        background-color: black;
+        align-items: center;
+    }
